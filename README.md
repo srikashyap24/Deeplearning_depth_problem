@@ -33,7 +33,7 @@ Without techniques like **Dropout**, **Batch Normalization**, or **Residual Conn
 
 The plot below shows how test accuracy changes with increasing hidden layers:
 
-*(insert your accuracy plot here)*
+<img src="deeplearningprob.png">
 
 ## ✅ Conclusion
 
